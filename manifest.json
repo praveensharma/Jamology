@@ -1,0 +1,7 @@
+{
+  "name": "Jamology",
+  "author": "praveensharma",
+  "entry": "dist/extension.js",
+  "version": "0.1.7",
+  "minimumApiVersion": "1.0.0"
+}
